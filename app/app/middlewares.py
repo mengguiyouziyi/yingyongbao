@@ -24,12 +24,12 @@ proxyServer = "http://proxy.abuyun.com:9020"
 # proxyPass = "0FE38BB4282AFC2B"
 
 # 4
-proxyUser = "H9269C63N6C305PD"
-proxyPass = "B4BA11856FD0D4E3"
+# proxyUser = "H9269C63N6C305PD"
+# proxyPass = "B4BA11856FD0D4E3"
 
 # 5
-# proxyUser = "H245OL3592LCHU6D"
-# proxyPass = "3C0CEF6238CAF281"
+proxyUser = "H245OL3592LCHU6D"
+proxyPass = "3C0CEF6238CAF281"
 
 
 # for Python3
